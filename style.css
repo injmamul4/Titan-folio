@@ -1095,6 +1095,7 @@ main {
     padding: 26px 18px;
     box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
     position: relative;
+     z-index: -1;
 }
 
 .footer-inner {
@@ -1238,4 +1239,5 @@ main {
     }
 
 }
+
 
