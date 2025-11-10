@@ -992,6 +992,7 @@ header {
 
 
 .laast-caad-1 {
+    z-index: -1;
     background: #071123;
     width: 450px;
     border: 1px solid rgba(255, 255, 255, 0.12);
@@ -1237,3 +1238,4 @@ main {
     }
 
 }
+
