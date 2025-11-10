@@ -1170,7 +1170,7 @@ main {
     height: 16px;
     display: inline-block;
     flex: 0 0 16px;
-    opacity: 0.95;
+    /* opacity: 0.95; */
 }
 
 
@@ -1239,6 +1239,7 @@ main {
     }
 
 }
+
 
 
 
