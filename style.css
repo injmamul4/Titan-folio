@@ -736,7 +736,7 @@ header {
 
 
 .cardd {
-    z-index: 0;
+    z-index: -1;
     max-width: 1100px;
     position: relative;
     top: 50px;
@@ -1235,4 +1235,5 @@ main {
     .footer-left p {
         font-size: 13px;
     }
+
 }
